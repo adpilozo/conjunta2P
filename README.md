@@ -25,7 +25,7 @@ Sigue estos pasos para instalar y ejecutar la aplicación:
 1. Clonar este repositorio: ``
 2. Instala las dependencias: `npm i`
 3. Configura las credenciales de Firebase en `src/api/firebase-config.js`.
-4. Inicia la aplicación: `npm start`
+4. Inicia la aplicación: `npm run dev`
 
 ## Uso y visualizacion del sistema 
 
